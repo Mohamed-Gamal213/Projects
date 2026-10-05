@@ -1,0 +1,2 @@
+E:\payment app\app\x64\Debug\app.exe
+E:\end game\payment app\app\x64\Debug\app.exe
